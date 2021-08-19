@@ -1,0 +1,10 @@
+Files from the Harvard Dataverse
+
+
+
+Two files: food inspection records and Yelp data:
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6MUQKX
+
+Land.Parcels.2020.csv
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/W0V6FX
+
